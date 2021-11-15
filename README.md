@@ -20,10 +20,11 @@ My name is Arnold Cabang and I am a full-stack web developer that loves creating
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about any of my projects, I'd love to explain any of them and am very open to all feedback/critique!
 - 😄 Pronouns: He/Him/His
-- 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/arnold-cabang-jr-615932216/)
-- [Angel List](https://angel.co/u/arnold-cabang-jr)
-- Email: acabang23@gmail.com
+
+📫 How to reach me:
+ - [LinkedIn](https://www.linkedin.com/in/arnold-cabang-jr-615932216/)
+ - [Angel List](https://angel.co/u/arnold-cabang-jr)
+ - Email: acabang23@gmail.com
 
 - Languages and Frameworks:
 
