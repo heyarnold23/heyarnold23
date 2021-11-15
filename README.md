@@ -26,8 +26,7 @@ My name is Arnold Cabang and I am a full-stack web developer that loves creating
  - [Angel List](https://angel.co/u/arnold-cabang-jr)
  - Email: acabang23@gmail.com
 
-- Languages and Frameworks:
-
+Languages and Frameworks:
 - JavaScript
 - React
 - Redux
